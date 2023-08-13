@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Nao vemos as coisas como elas sao, mas como nos somos</h1>    
+    return <h1>Nao vemos as coisas como elas sao, mas como nos somos1</h1>    
    
 }
 
